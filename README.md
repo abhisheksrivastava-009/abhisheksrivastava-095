@@ -53,7 +53,7 @@
 
 
 <a  href="https://www.linkedin.com/in/abhishek-srivastava-a2a111288/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxotIxCEiQKmABSMBDaxOTg%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="https://twitter.com/@Abhisri98" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a  href="https://t.me/abhisheksri_095"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 <a  href="https://www.instagram.com/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
