@@ -10,7 +10,7 @@
 
 🚀 Focused on learning new technologies and applying that knowledge through hands-on projects. Check out the repositories to see current work in action! <a href="https://github.com/abhisheksrivastava-009?tab=repositories">project section.</a>
 
-![](https://github.com/abhisheksrivastava-009/abhisheksrivastava-005/blob/main/snake.svg)
+![](https://github.com/abhisheksrivastava-009/abhisheksrivastava-009/blob/main/snake.svg)
 
 <!-- <h3 align="center"> CSE Student</h3> -->
 
